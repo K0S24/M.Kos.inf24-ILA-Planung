@@ -26,6 +26,13 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 
  ## 09.01.2026
- - [ ] 20 Seiten Buch 
- - [ ] eine Leetcod Aufgabe
+ - [x] 20 Seiten Buch 
+ - [x] eine Leetcod Aufgabe
  - [ ] Portfolie webseite fertigstellen
+
+Reflixion:
+
+ ## 16.01.2026
+ - [ ] Portfolie webseite fertigstellen
+ - [ ] 20 Seiten Buch 
+ - [ ] Cisco weitermachen
