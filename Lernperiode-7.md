@@ -33,6 +33,6 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Reflixion:
 
  ## 16.01.2026
- - [ ] Portfolie webseite fertigstellen
+ - [x] Portfolie webseite fertigstellen(fast)
  - [ ] 20 Seiten Buch 
- - [ ] Cisco weitermachen
+ - [ ] Cisco anfangen
